@@ -21,7 +21,7 @@ Sign-up application written in React using MongoDb database.
 
 ## Setup
 
-To test this app on your own, you will need a commercial and stripe account.
+To test this app install dependencies
 
 In .env folder include username, password and dbname.
 
