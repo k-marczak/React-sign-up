@@ -68,7 +68,7 @@ class App extends Component {
   render(){
     return (
       <div>
-        <div className="container">
+        <div className="container" style={{marginTop: '90px'}}>
           <div className="form-div">
             <form onSubmit={this.onSubmit}>
               <input type="text"
